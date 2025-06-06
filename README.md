@@ -10,6 +10,6 @@ Each notebook in this repo tackles a fundamental concept using simulation and vi
 
 | Notebook | Description |
 |----------|-------------|
-| `01_clt_fair_dice.ipynb` | Demonstrates the Central Limit Theorem (CLT) using fair dice. Shows how the sample mean of uniform distributions approaches a normal distribution as sample size increases. |
-| `02_clt_biased_dice.ipynb` | Applies CLT to a biased die with non-uniform probabilities. Explores how sample mean distributions behave when the underlying data is skewed. |
+| `CLT_fair_dice.ipynb` | Demonstrates the Central Limit Theorem (CLT) using fair dice. Shows how the sample mean of uniform distributions approaches a normal distribution as sample size increases. |
+| `CLT_unfair_dice.ipynb` | Applies CLT to a biased die with non-uniform probabilities. Explores how sample mean distributions behave when the underlying data is skewed. |
 | *(Coming soon)* `03_simulated_stock_returns.ipynb` | Simulates log-normal stock price paths and visualizes return distributions. Bridges statistical concepts with financial modeling. |
