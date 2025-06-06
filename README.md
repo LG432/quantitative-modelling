@@ -1,6 +1,6 @@
 # quantitative-modelling
 
-his repository documents my self-directed journey into quantitative finance and statistical modeling, starting from first principles. I'm currently pursuing a Master's in Physics & Astronomy, and I'm transitioning into quantitative roles by building a solid foundation in probability, statistics, and Python-based simulation.
+This repository documents my self-directed journey into quantitative finance and statistical modeling, starting from first principles. I'm currently pursuing a Master's in Physics & Astronomy, and I'm transitioning into quantitative roles by building a solid foundation in probability, statistics, and Python-based simulation.
 
 ---
 
