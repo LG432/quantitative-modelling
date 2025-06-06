@@ -4,7 +4,7 @@ his repository documents my self-directed journey into quantitative finance and 
 
 ---
 
-## 🔍 Contents
+## Contents
 
 Each notebook in this repo tackles a fundamental concept using simulation and visualization:
 
